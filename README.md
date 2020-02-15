@@ -10,3 +10,7 @@ A report which goes into detail about the objectives, Dataset preparation , Chal
 The data set the model was trained on was borrowed from Kaggle.The Training set and Validation set were both derived from this.
 ASL DATA:
 https://www.kaggle.com/grassknoted/asl-alphabet
+
+Kaggle Kernel:
+
+https://www.kaggle.com/wyu190/asl-classifier/notebook
